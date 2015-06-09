@@ -36,3 +36,6 @@ Some aditional css needed to show/hide select or list
         });
     })
 } )( jQuery );
+git add --all
+~$git commit -m "Initial commit"
+~$git push -u origin master
