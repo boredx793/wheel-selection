@@ -1,11 +1,11 @@
 # wheel-selection
-<Select a tractor manufacturer from the list below:
+Select a tractor manufacturer from the list below:
 <div id="navigation-pagination">
   <ul>
-    <li>John Deere</li>
-    <li>Fendt</li>
-    <li>New Holland</li>
-    <li>Claas</li>
+    <i>John Deere</li>
+    <i>Fendt</li>
+    <i>New Holland</li>
+    <i>Claas</li>
   </ul>
 </div>
 
