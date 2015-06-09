@@ -1,5 +1,5 @@
 # wheel-selection
-/*
+/* Select a tractor manufacturer from the list below:
 <div id="navigation-pagination">
   <ul>
     <li>John Deere</li>
