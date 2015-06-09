@@ -1,11 +1,14 @@
+cd wheel-selection.github.io
+~$echo "Wheel0selection" > index.html
+
 # wheel-selection
 Select a tractor manufacturer from the list below:
 <div id="navigation-pagination">
   <ul>
-    <i>John Deere</li>
-    <i>Fendt</li>
-    <i>New Holland</li>
-    <i>Claas</li>
+    <li>John Deere</li>
+    <li>Fendt</li>
+    <li>New Holland</li>
+    <li>Claas</li>
   </ul>
 </div>
 
